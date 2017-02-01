@@ -5,4 +5,4 @@
  * Build: @BUILD_DATE@
  * Version: @VERSION@
  */
-include ('HTML-Bio-withCSS.html');
+include ('html-bio-with-css.html');
